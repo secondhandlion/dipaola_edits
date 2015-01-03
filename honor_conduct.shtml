@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>Honor/Conduct</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">			
+			<img id="crest" style="float: right;width: 150px;" src="img/evan_kolo.jpg" alt="MIDN ENS Kolodziejczak" />
+			
+			<img id="crest" style="float: right;width: 150px;" src="img/tony_diorio.jpg" alt="MIDN LTJG Diorio" hspace="10" />
+			<h1 class="title">Honor/Conduct</h1>
+			<h2 class="subtitle">MIDN LTJG Diorio/MIDN ENS Kolodziejczak</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>
+				Integrity and decorum are paramount qualities of a Naval Officer. The Honor and Conduct Officers of
+				30th Company endeavor to educate each midshipman in Thirty on the importance of these qualities. These
+				distinguished and capable first class midshipmen also serve as representatives for midshipmen who are
+				being tried for honor or conduct offenses, ensuring that justice and judgment are dealt fairly.
+			</p>
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2015, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN Jordan DiPaola '17, USN</p>
+	</body>
+</html>
