@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>1st LT</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">
+			<img id="crest" style="float: right;width: 150px;" src="img/lucas_stanley.jpg" alt="MIDN ENS Stanley" />
+			<h1 class="title">1st LT</h1>
+			<h2 class="subtitle">MIDN ENS Stanley</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>
+					Thirtieth Company's First Lieutenant strives to keep every square inch of 8-4 in top-notch condition. 
+					His job entails preparing each Thirtyite for Alpha inspections, protecting our sacred decks from
+					bedbug infestations, and making sure even the most miniscule showerhead is in working order.
+			</p>
+			
+			
+			
+			<h2 class="subtitle">WORK ORDER</h2>
+			<iframe src="https://docs.google.com/a/usna.edu/forms/d/1A81wT-ZWBmEWt0DqZkavryXs-GKN74mXwn0Dgz2QMl0/viewform?c=0&w=1;
+pid=explorer&amp;a=v&amp;chrome=false&amp;embedded=true" height="500" width="1000"></iframe>
+			
+			
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2015, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN Jordan DiPaola '17, USN</p>
+	</body>
+</html>
