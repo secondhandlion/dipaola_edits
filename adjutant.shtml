@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>Adjutant</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">
+			<img id="crest" style="float: right;width: 150px;" src="img/manu_elias.jpg" alt="MIDN ENS Elias" />
+			<h1 class="title">Adjutant</h1>
+			<h2 class="subtitle">MIDN ENS Elias</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>
+				It is important to be watchful, especially in the Navy--a global force concerned with maintaining peace
+				and freedom for all the world. Thirtieth Company's Adjutant Staff makes sure that our company is always on
+				watch, protecting our lovely 8-4 against legitimately harmful intruders as well as the occasional,
+				mischievous marauder. 
+			</p>
+			
+			<h2 class="subtitle">MAIN-O</h2>
+			<iframe src="https://docs.google.com/a/usna.edu/spreadsheets/d/1rSBuVKgOTCVUZCnVq6nGx5vrpxdpvzh79dmqDIoQ0jE/edit#gid=719619149;
+pid=explorer&amp;a=v&amp;chrome=false&amp;embedded=true" height="750" width="1000"></iframe>
+			
+			<h2 class="subtitle">DUTY SECTION</h2>
+			<iframe src="https://docs.google.com/a/usna.edu/spreadsheet/ccc?key=0AnATSIQ_1vXddHAxYi02MzBmRVVacFNmS29aRUtYSXc&usp=drive_web#gid=0;
+pid=explorer&amp;a=v&amp;chrome=false&amp;embedded=true" height="750" width="1000"></iframe>
+			
+			<h2 class="subtitle">AC WATCH</h2>
+			<img src="img/Ac_sample.PNG" alt="Ac Watch" style="width:550px;height:400px">
+			<img src="img/Ac_sample.PNG" alt="Ac Watch" style="width:550px;height:400px">
+			<p> </p>
+			
+			
+		
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2015, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN Jordan DiPaola '17, USN</p>
+	</body>
+</html>
