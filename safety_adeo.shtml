@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>Safety/ADEO</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">
+			
+			<img id="crest" style="float: right;width: 150px;" src="img/sean_gallagher.jpg" alt="MIDN ENS Gallagher" />
+			<img id="crest" style="float: right;width: 150px;" src="img/noah_copeland.jpg" alt="MIDN ENS Copeland" hspace="10" />
+			<h1 class="title">Safety/ADEO</h1>
+			<h2 class="subtitle">MIDN ENS Copeland/MIDN ENS Gallagher</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>
+				The Safety Officer as well as the Alcohol and Drug Education Officer of 30th Company are not only
+				dedicated to ensuring that the hard-working midshipmen of Dirty Thirty have fun but also to making sure
+				that these lively midshipmen do so safely and responsibly.
+			</p>
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2015, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN Jordan DiPaola '17, USN</p>
+	</body>
+</html>
