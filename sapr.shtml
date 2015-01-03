@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>SAPR/SHAPE</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">
+			<img id="crest" style="float: right;width: 300px;" src="img/sapr.jpg" alt="Navy SAPR" />
+			<h1 class="title">SAPR/SHAPE</h1>
+			<h2 class="subtitle">30th Company SAPR/SHAPE Staff</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>
+				The Sexual Assault Prevention and Response Staff of 30th Company works tirelessly alongside our Sexual Harassment
+				and Assault Prevention Education Staff to maintain a safe, professional working environment for each member of
+				the Thirty Family. Sexual Assault and Harassment has relentlessly plagued our nation's military, and our SAPR
+				staff are committed to protecting our dear, close family from such attacks.
+			</p>
+			
+			<h2>SAPR Staff</h2>
+			<h2 class="subtitle">MIDN ENS Stocks</h2>
+			<img src="img/zach_stocks.jpg" alt="MIDN ENS Stocks" style="width:150px;height:185px">
+			
+			<h2 class="subtitle">MIDN 2/C Cirillo</h2>
+			<img src="img/joe_cirillo.jpg" alt="MIDN 2/C Cirillo" style="width:150px;height:185px">
+			
+			<h2 class="subtitle">MIDN 2/C Rodrock</h2>
+			<img src="img/katherine_rodrock.jpg" alt="MIDN 2/C Rodrock" style="width:150px;height:185px">
+			
+			<h2>SHAPE Staff</h2>
+			<h2 class="subtitle">MIDN LTJG Ayala</h2>
+			<img src="img/adriana_ayala.jpg" alt="MIDN LTJG Ayala" style="width:150px;height:185px">
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2015, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN Jordan DiPaola '17, USN</p>
+	</body>
+</html>
